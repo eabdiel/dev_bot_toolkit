@@ -1,6 +1,6 @@
 # dev_bot_toolkit
 Chatbot based dev-tools; the bot will call/execute some of my tools based on text input (currently chatbot_core is the sample ui with simple responces and definitions - other tools will be made standalone first before final bot is available with NLP functions to access seperate tools)
- <Planned tools>
+ Planned tools->
  1. Bulk search/replace content in txt files from FTP
  2. SAP Macro execution (using https://github.com/eabdiel/sap_automation)
  3. Extract XLSX - Iterate through and open each Sheet#.xml file - Remove <Protection tags from them to reset passwords from MS files - re-pack and save to target folder
